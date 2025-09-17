@@ -1,0 +1,40 @@
+{
+  "metrics": {
+    "roc_auc": 1.0,
+    "accuracy": 0.9983333333333333,
+    "precision": 1.0,
+    "recall": 0.991304347826087
+  },
+  "top_importances": {
+    "numero_hijos_o_dependientes": 0.23447116988997532,
+    "cliente_edad": 0.1962426472227118,
+    "tiempo_promedio_decision_antes_compra_dias": 0.022793829492818097,
+    "lote_precio": 0.015140034177400284,
+    "tiempo_reserva": 0.014174484686820988,
+    "monto_reserva": 0.008475257737856122,
+    "numero_visitas_proyecto_despues": 0.008070080558865406,
+    "numero_visitas_proyecto_antes": 0.00706117212712141,
+    "cerca_colegios": 0.004384399169725092,
+    "cliente_estado_civil_soltero": 0.0043225803464796994,
+    "cliente_genero_M": 0.004296377592102429,
+    "nivel_respuesta_tardio": 0.004231315538674999,
+    "promesa_regalo_s\u00ed": 0.004220622325540034,
+    "asesor_Juan Rojas": 0.004106578451934843,
+    "cerca_parques": 0.004043520541916271,
+    "nivel_educativo_universitario": 0.0035798522343641168,
+    "ingresos_estimados_rango_3000-5000": 0.003498934132805897,
+    "nivel_educativo_secundaria": 0.0034815109553800933,
+    "estado_final_transferido": 0.0034741230794677223,
+    "metodo_pago_tarjeta": 0.0034704497509210077,
+    "nivel_educativo_tecnico": 0.003382994644705432,
+    "ingresos_estimados_rango_<1500": 0.0033544679316796695,
+    "canal_contacto_P\u00e1gina Web": 0.0030852994809419127,
+    "metodo_pago_transferencia": 0.003078717598012061,
+    "asesor_Pedro S\u00e1nchez": 0.0030131769670758116,
+    "ocupacion_profesion_Contador": 0.002937857581765711,
+    "cliente_estado_civil_conviviente": 0.0029058355287839184,
+    "ocupacion_profesion_Comerciante": 0.002901429452728023,
+    "canal_contacto_Instagram": 0.002835344653571341,
+    "ocupacion_profesion_Arquitecto": 0.0028237231255168215
+  }
+}
